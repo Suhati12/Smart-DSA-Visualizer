@@ -109,7 +109,7 @@ class ExpressionTab(ttk.Frame):
             "PUSH_PAREN": BLUE, "POP_PAREN": RED
         }.get(op, FG)
 
-        # canvas
+        
         c = self.canvas
         c.delete("all")
         c.create_text(12, 18, anchor="w", text=f"Token: {token}",
