@@ -1,4 +1,3 @@
-
 """
 Smart Data Structures Visualizer
 C++ engine (g++) + Python GUI (Tkinter)
