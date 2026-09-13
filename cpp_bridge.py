@@ -1,3 +1,4 @@
+
 """
 Compiles engine.cpp with g++, runs it, parses output.
 Falls back to pure-Python algorithms if g++ is not installed.
